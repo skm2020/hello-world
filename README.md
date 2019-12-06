@@ -1,2 +1,2 @@
 # hello-world
-Learning GitHub
+Learning deep learning and GitHub. Exciting journey!
